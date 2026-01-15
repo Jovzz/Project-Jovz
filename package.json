@@ -1,5 +1,23 @@
 {
+  "name": "project-jovz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jovzz/Project-Jovz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jovzz/Project-Jovz/issues"
+  },
+  "homepage": "https://github.com/Jovzz/Project-Jovz#readme",
   "dependencies": {
-    "mysql2": "^3.16.0"
+    "express": "^5.2.1"
   }
 }
